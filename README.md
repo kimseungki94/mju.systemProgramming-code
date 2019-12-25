@@ -1,6 +1,6 @@
 # system_Programming
 
-<h4>I study 3 parts of System_Programming</h4>
-1. File I/O function
-2. Process Control(+Multi Processing)
-3. Socket Programming
+<h4>I study 3 parts of System_Programming</h4><br><br>
+1. File I/O function<br>
+2. Process Control(+Multi Processing)<br>
+3. Socket Programming<br>
